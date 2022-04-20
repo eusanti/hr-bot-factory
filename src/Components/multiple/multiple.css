@@ -1,0 +1,28 @@
+.type{
+    width: auto;
+    margin: 0px;
+    padding: 0%;
+    list-style: none;
+    flex-flow: row;
+}
+
+.type a{
+    text-decoration: none;
+    color: black;
+}
+
+.type li{
+    width: auto;
+    flex-flow: row;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 2px;
+    text-align: center;
+    margin: 4px;
+    
+}
+
+.type :hover{
+    background-color: rgb(116, 116, 116);
+    color:white
+}

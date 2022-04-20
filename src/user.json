@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Princess Leia",
+        "job": "Web developer",
+        "description": "Js, Node.js, HTML ans Css",
+        "image": "../leia.jpg",
+        "profile": "https://en.wikipedia.org/wiki/Princess_Leia"
+
+    },
+    {
+        "name": "Anakin Skywalker",
+        "job": "Fullstack",
+        "description": "Junior Web Developer, Master Design Intercation and Degree on Design ",
+        "image": "../Anakin_Skywalker.webp",
+        "profile": "https://starwars.fandom.com/wiki/Anakin_Skywalker"
+
+    },
+
+    {
+        "name": "Yoda",
+        "job": "Fullstack",
+        "description": "Junior Web Developer, Master Design Intercation and Degree on Design ",
+        "image": "../yoda.jpg",
+        "profile": "https://starwars.fandom.com/wiki/Anakin_Skywalker"
+
+    },
+
+    {
+        "name": "Rey",
+        "job": "Fullstack",
+        "description": "Junior Web Developer, Master Design Intercation and Degree on Design ",
+        "image": "../Rey.webp",
+        "profile": "https://starwars.fandom.com/wiki/Anakin_Skywalker"
+
+    }
+]
