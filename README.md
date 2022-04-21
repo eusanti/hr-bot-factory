@@ -13,10 +13,11 @@
 - When opening the browser, adjust the  "Toggle device toolbar" so you can see the chat in mobile size. :calling:
 - Click to make the choice of your candidate experience.
 - Choose your candidate
-- 
+
 ### Available Scripts :memo:
 In the project directory, you can run to start the project:
 ### `npm start`
+
 
 # Design (Figma) :paintbrush:
 
