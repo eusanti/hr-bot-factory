@@ -13,18 +13,18 @@
 - When opening the browser, adjust the  "Toggle device toolbar" so you can see the chat in mobile size. :calling:
 - Click to make the choice of your candidate experience.
 - Choose your candidate
+- 
+### Available Scripts :memo:
+In the project directory, you can run to start the project:
+### `npm start`
 
 # Design (Figma) :paintbrush:
 
 - Storyboard (https://www.figma.com/file/kj3ocXyriW2vZhKHYGKLvw/hr-bot-factory?node-id=7%3A23)
 - Flow Diagram (https://www.figma.com/file/kj3ocXyriW2vZhKHYGKLvw/hr-bot-factory?node-id=7%3A31)
 - Final Design and prototype (https://www.figma.com/proto/kj3ocXyriW2vZhKHYGKLvw/hr-bot-factory?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
+- 
+### To move in Figma files use CTRL+ mouse scroll or tap on the right side and move the mouse
 
-### Available Scripts :memo:
-In the project directory, you can run to start the project:
-
-### `npm start`
-
-### To move in Figma files use CTRL+ mouse scroll or tap with right side and move the mouse
 
 @EuniceSantiago :woman_technologist:
