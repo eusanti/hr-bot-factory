@@ -25,4 +25,6 @@ In the project directory, you can run to start the project:
 
 ### `npm start`
 
+### To move in Figma files use CTRL+ mouse scroll or tap with right side and move the mouse
+
 @EuniceSantiago :woman_technologist:
